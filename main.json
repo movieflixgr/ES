@@ -12,14 +12,70 @@
       "Seasons": [
         {
           "Title": "Α΄ Κύκλος",
-          "Image": "https://www.imdb.com/title/tt16447750/mediaviewer/rm2627143169/?ref_=tt_ov_i",
+          "Image": "https://elculture.gr/wp-content/uploads/2022/10/maestro-mega-1.jpg",
           "Year": "2022",
           "isUnlocked": true,
           "Episodes": [
             {
+              "Title": "Επεισόδιο 9",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
+              "Video": "https://www.cdn.vidce.net/d/bYZ1d4bKGwhFPOzxk8ztlg/1673712330/video/Maestro/1x09.mp4",
+              "Description": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 8",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
+              "Video": "https://www.cdn.vidce.net/d/bYZ1d4bKGwhFPOzxk8ztlg/1673712330/video/Maestro/1x08.mp4",
+              "Description": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 7",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
+              "Video": "https://www.cdn.vidce.net/d/bYZ1d4bKGwhFPOzxk8ztlg/1673712330/video/Maestro/1x07.mp4",
+              "Description": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 6",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
+              "Video": "https://www.cdn.vidce.net/d/bYZ1d4bKGwhFPOzxk8ztlg/1673712330/video/Maestro/1x06.mp4",
+              "Description": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 5",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
+              "Video": "https://www.cdn.vidce.net/d/bYZ1d4bKGwhFPOzxk8ztlg/1673712330/video/Maestro/1x05.mp4",
+              "Description": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 4",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
+              "Video": "https://www.cdn.vidce.net/d/bYZ1d4bKGwhFPOzxk8ztlg/1673712330/video/Maestro/1x04.mp4",
+              "Description": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 3",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
+              "Video": "https://www.cdn.vidce.net/d/bYZ1d4bKGwhFPOzxk8ztlg/1673712330/video/Maestro/1x03.mp4",
+              "Description": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 2",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
+              "Video": "https://www.cdn.vidce.net/d/bYZ1d4bKGwhFPOzxk8ztlg/1673712330/video/Maestro/1x02.mp4",
+              "Description": "",
+              "isUnlocked": true
+            },
+            {
               "Title": "Επεισόδιο 1",
-              "Image": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_1200,w_1200/v1662606141/products/pim/4260488130811-3258630/nature-love-msm-tabletten-mit-vitamin-c-365-st",
-              "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+              "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
+              "Video": "https://www.cdn.vidce.net/d/bYZ1d4bKGwhFPOzxk8ztlg/1673712330/video/Maestro/1x01.mp4",
               "Description": "",
               "isUnlocked": true
             }
