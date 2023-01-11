@@ -82,11 +82,16 @@
             {
               "Title": "Άρνηση (Κεφάλαιο 2)",
               "Image": "https://diavaseto.gr/wp-content/uploads/2022/10/10_13_2022_22_42_47.jpg",
-              "Video": "https://4tf3pitr0a1q2zcawgpb.fscnd.net/5k7xvsm55muvjuw5lwaindqdy2oe75gy35fu5ltvw3hlotoomcpaykygzbva/67adf12dd9e5f33babc90adf1899d36d.mp4",
+              "Video": "https://745mingiestblissfully.com/98ownbttiso6",
               "Description": "Ο Ορέστης διαπιστώνει πως η ζωή των κατοίκων του νησιού δεν είναι όπως δείχνει. Αποκτά προσωπική σχέση μαζί τους και ανακαλύπτει σκοτεινά μυστικά για τον καθένα... Παίρνει θέση απέναντι στην ωμή βία που δέχεται η Μαρία και ο Σπύρος από τον Χαράλαμπο. Τα αισθήματα του Ορέστη για την Κλέλια δυναμώνουν, όμως δεν αφήνει τον εαυτό του να ενδώσει, καθώς γνωρίζει ότι δεν πρέπει να μπλέξει...",
               "Date": "",
               "Duration": "1029d",
-              "isUnlocked": true
+              "isUnlocked": true,
+              "Type": "m3u8",
+              "StartString": "'hls': '",
+              "EndString": "',",
+              "Start": "8",
+              "End": "0"
             },
             {
               "Title": "Clair De Lune (Κεφάλαιο 1)",
