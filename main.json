@@ -28,7 +28,8 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": 0
+              "End": 0,
+              "Type": "m3u8"
             },
             {
               "Title": "8. Αυτοάνοσα\n",
@@ -41,7 +42,8 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": 0
+              "End": 0,
+              "Type": "m3u8"
             },
             {
               "Title": "7. Ένας απαίδευτος βουλιάζει\n",
@@ -54,7 +56,8 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": 0
+              "End": 0,
+              "Type": "m3u8"
             },
             {
               "Title": "6. Μουσικές καρέκλες\n",
@@ -67,7 +70,8 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": 0
+              "End": 0,
+              "Type": "m3u8"
             },
             {
               "Title": "5. La famiglia\n",
@@ -80,7 +84,8 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": 0
+              "End": 0,
+              "Type": "m3u8"
             },
             {
               "Title": "4. Μεγάλη χίμαιρα",
@@ -93,7 +98,8 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": 0
+              "End": 0,
+              "Type": "m3u8"
             },
             {
               "Title": "3. Η προσευχή\n",
@@ -106,7 +112,8 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": 0
+              "End": 0,
+              "Type": "m3u8"
             },
             {
               "Title": "2. Άρνηση",
@@ -119,7 +126,8 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": 0
+              "End": 0,
+              "Type": "m3u8"
             },
             {
               "Title": "1.Clair De Lune",
@@ -131,8 +139,9 @@
               "isUnlocked": true,
               "StartString": "'hls': ",
               "EndString": "',",
-              "Start": 7,
-              "End": 0
+              "Start": 8,
+              "End": 0,
+              "Type": "m3u8"
             }
           ]
         }
