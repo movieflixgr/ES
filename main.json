@@ -28,7 +28,7 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": ""
+              "End": 0
             },
             {
               "Title": "8. Αυτοάνοσα\n",
@@ -41,7 +41,7 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": ""
+              "End": 0
             },
             {
               "Title": "7. Ένας απαίδευτος βουλιάζει\n",
@@ -54,7 +54,7 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": ""
+              "End": 0
             },
             {
               "Title": "6. Μουσικές καρέκλες\n",
@@ -67,7 +67,7 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": ""
+              "End": 0
             },
             {
               "Title": "5. La famiglia\n",
@@ -80,7 +80,7 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": ""
+              "End": 0
             },
             {
               "Title": "4. Μεγάλη χίμαιρα",
@@ -93,7 +93,7 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": ""
+              "End": 0
             },
             {
               "Title": "3. Η προσευχή\n",
@@ -106,7 +106,7 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": ""
+              "End": 0
             },
             {
               "Title": "2. Άρνηση",
@@ -119,7 +119,7 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": ""
+              "End": 0
             },
             {
               "Title": "\n1. Clair De Lune\n",
@@ -132,7 +132,7 @@
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 7,
-              "End": ""
+              "End": 0
             }
           ]
         }
