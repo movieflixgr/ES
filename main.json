@@ -31,7 +31,8 @@
               "EndString": "',",
               "Start": 8,
               "End": 0,
-              "Type": "m3u8"
+              "Type": "m3u8",
+              "Fetch": "Voe"
             },
             {
               "Title": "8. Αυτοάνοσα",
@@ -42,12 +43,13 @@
               "Duration": "56λ.",
               "isUnlocked": true,
               "fetchVideo": true,
-              "beforeEnd": 0,              
+              "beforeEnd": 0,
               "StartString": "'hls': ",
               "EndString": "',",
               "Start": 8,
               "End": 0,
-              "Type": "m3u8"
+              "Type": "m3u8",
+              "Fetch": "Voe"
             },
             {
               "Title": "7. Ένας απαίδευτος βουλιάζει",
@@ -63,7 +65,8 @@
               "EndString": "',",
               "Start": 8,
               "End": 0,
-              "Type": "m3u8"
+              "Type": "m3u8",
+              "Fetch": "Voe"
             },
             {
               "Title": "6. Μουσικές καρέκλες",
@@ -79,7 +82,8 @@
               "EndString": "',",
               "Start": 8,
               "End": 0,
-              "Type": "m3u8"
+              "Type": "m3u8",
+              "Fetch": "Voe"
             },
             {
               "Title": "5. La famiglia",
@@ -95,7 +99,8 @@
               "EndString": "',",
               "Start": 8,
               "End": 0,
-              "Type": "m3u8"
+              "Type": "m3u8",
+              "Fetch": "Voe"
             },
             {
               "Title": "4. Μεγάλη χίμαιρα",
@@ -111,7 +116,8 @@
               "EndString": "',",
               "Start": 8,
               "End": 0,
-              "Type": "m3u8"
+              "Type": "m3u8",
+              "Fetch": "Voe"
             },
             {
               "Title": "3. Η προσευχή",
@@ -127,7 +133,8 @@
               "EndString": "',",
               "Start": 8,
               "End": 0,
-              "Type": "m3u8"
+              "Type": "m3u8",
+              "Fetch": "Voe"
             },
             {
               "Title": "2. Άρνηση",
@@ -143,7 +150,8 @@
               "EndString": "',",
               "Start": 8,
               "End": 0,
-              "Type": "m3u8"
+              "Type": "m3u8",
+              "Fetch": "Voe"
             },
             {
               "Title": "1.Clair De Lune",
@@ -159,7 +167,8 @@
               "EndString": "',",
               "Start": 8,
               "End": 0,
-              "Type": "m3u8"
+              "Type": "m3u8",
+              "Fetch": "Voe"
             }
           ]
         }
