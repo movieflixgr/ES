@@ -1,6 +1,44 @@
 {
   "Series": [
     {
+      "Title": "Έτερος Εγώ",
+      "ImageBack": "https://www.athinorama.gr/Content/ImagesDatabase/p/750x422/crop/both/34/340f939af7b148ebacdc14da1cf79d6e.jpg?quality=81&404=default&v=4",
+      "ImageMain": "https://dailymedia.com.gr/img/2023/01/09/dailymedia_com_gr_09012023_183548.png",
+      "Video": "https://www.mediafire.com/file/80sbqgwqfw00e39/video.mp4/file",
+      "Description": "Μια σειρά δολοφονιών θορυβεί τις αστυνομικές αρχές, καθώς άγνωστα σύμβολα εντοπίζονται στον τόπο κάθε εγκλήματος. Οταν όλα τα στοιχεία των ερευνών γύρω από τον δράστη σκιαγραφούν το προφίλ ενός serial killer, επιστρατεύεται - για ακόμα μία φορά - ο εκκεντρικός καθηγητής εγκληματολογίας, Δημήτρης Λαΐνης που τον υποδύεται κι εδώ όπως και στην ταινία ο Πυγμαλίων Δαδακαρίδης. Ο καθηγητής καλείται να βρει τον συνδετικό κρίκο ανάμεσα στις συνεχόμενες δολοφονίες, να αποκρυπτογραφήσει τη σημασία των συμβόλων και να λύσει ακόμα ένα μυστήριο.",
+      "Year": "2019",
+      "Genre": "Αστυνομικό Θρίλερ, Περιπέτεια",
+      "Duration": "~ 60λ.",
+      "isUnlocked": true,
+      "Seasons": [
+        {
+          "Title": "Νέμεσις",
+          "Image": "https://www.ieidiseis.gr/media/k2/items/cache/fd11f61cb46339e5520d28b5cd202b1d_XL.jpg?t=20230113_144601",
+          "Year": "2023",
+          "isUnlocked": true,
+          "Episodes": [
+            {
+              "Title": "1. Η αρχή του τέλους",
+              "Image": "https://img.huffingtonpost.com/asset/63e9083e1f000077000aac88.jpg?ops=scalefit_720_noupscale",
+              "Video": "https://www.mediafire.com/file/gjoilzubkfxwewz/1/file",
+              "Description": "Ο Λαΐνης (Πυγμαλίωνς Δαδακαρίδης) πενθεί τον χαμό της Τόνιας κλεισμένος στο σπίτι του, επιλέγοντας να απομακρυνθεί από τους γνωστούς του και τη διδασκαλία.Η Μάρθα (Άννα Μενενάκου) δεν έχει καταφέρει να συλλάβει τη Δανάη (Κόρα Καρβούνη) χωρίς να εμπλέξει το Λαΐνη.Όμως, μια έκρηξη σε ένα γραφείο τελετών που αφήνει πίσω της ένα πτώμα, πυροδοτεί νέα έρευνα για το τμήμα ανθρωποκτονιών.",
+              "Date": "13/02/2023",
+              "Duration": "1ώρ. 01λ.",
+              "isUnlocked": true,
+              "fetchVideo": true,
+              "beforeEnd": "5",
+              "Type": "media",
+              "StartString": "https://download",
+              "EndString": "\"",
+              "Start": 0,
+              "End": 0,
+              "Fetch": "MediaFire"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "Title": "Maestro",
       "ImageBack": "https://www.theissue.gr/wp-content/uploads/2022/12/maestro-800x500.jpg",
       "ImageMain": "https://www.theissue.gr/wp-content/uploads/2022/12/maestro-800x500.jpg",
