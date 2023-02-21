@@ -18,6 +18,23 @@
           "isUnlocked": true,
           "Episodes": [
             {
+              "Title": "2. Η επιστροφή του Ασώτου",
+              "Image": "https://digitaltvinfo.gr/wp-content/uploads/2023/02/Eteros-Ego-Nemesis-2.jpg",
+              "Video": "https://www.mediafire.com/file/v4j9gjw1pjjrys2/2/file",
+              "Description": "Μετά το ανατρεπτικό φινάλε του πρώτου επεισοδίου και την επανεμφάνιση του Μασάτου (Δημήτρης Καπετανάκος), ένας νέος γύρος ανάκρισης ξεκινά. Παράλληλα, η επιστροφή του Μασάτου φτάνει στα αυτιά του Βανόρτα (Τάσος Νούσιας), ο οποίος έχει βάλει σκοπό της ζωής του να εκδικηθεί το Ερπετό και τη συμμορία του.\nΗ κρίση στη σχέση Απόστολου (Μάνος Βακούσης) και Ελένης (Κατερίνα Διδασκάλου) κλιμακώνεται. Η αστυνομία ανακρίνει όσους εμπλέκονται στην υπόθεση της έκρηξης στο γραφείο τελετών. Η εμφάνιση προσώπων από το παρελθόν κάνει τα πράγματα ακόμα πιο περίπλοκα.",
+              "Date": "20/02/2023",
+              "Duration": "43λ.",
+              "isUnlocked": true,
+              "fetchVideo": true,
+              "beforeEnd": "5",
+              "Type": "media",
+              "StartString": "https://download",
+              "EndString": "\"",
+              "Start": 0,
+              "End": 0,
+              "Fetch": "MediaFire"
+            },
+            {
               "Title": "1. Η αρχή του τέλους",
               "Image": "https://img.huffingtonpost.com/asset/63e9083e1f000077000aac88.jpg?ops=scalefit_720_noupscale",
               "Video": "https://www.mediafire.com/file/gjoilzubkfxwewz/1/file",
