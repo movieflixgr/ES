@@ -18,6 +18,23 @@
           "isUnlocked": true,
           "Episodes": [
             {
+              "Title": "3. Ε3",
+              "Image": "https://www.neolaia.gr/wp-content/uploads/2023/02/unnamed-12.jpg",
+              "Video": "https://www.mediafire.com/file/dvuyd2fvdy225a5/3/file",
+              "Description": "",
+              "Date": "27/02/2023",
+              "Duration": "57λ.",
+              "isUnlocked": true,
+              "fetchVideo": true,
+              "beforeEnd": "5",
+              "Type": "media",
+              "StartString": "https://download",
+              "EndString": "\"",
+              "Start": 0,
+              "End": 0,
+              "Fetch": "MediaFire"
+            },
+            {
               "Title": "2. Η επιστροφή του Ασώτου",
               "Image": "https://digitaltvinfo.gr/wp-content/uploads/2023/02/Eteros-Ego-Nemesis-2.jpg",
               "Video": "https://www.mediafire.com/file/v4j9gjw1pjjrys2/2/file",
