@@ -20,19 +20,19 @@
             {
               "Title": 5,
               "Image": "https://www.lykavitos.gr/sites/default/files/styles/large_article/public/2023-03/1_3.jpg?itok=vfbgLhE2",
-              "Video": "https://matriculant401merited.com/ea4bbgs22qk5",
+              "Video": "https://www.mediafire.com/file_premium/d3lgp6qpun4b6v2/video/file",
               "Description": "",
               "Date": "13/03/2023",
               "Duration": "57λ.",
               "isUnlocked": true,
               "fetchVideo": true,
-              "beforeEnd": 0,
-              "Type": "m3u8",
-              "StartString": "'hls': '",
-              "EndString": "',",
-              "Start": 8,
+              "beforeEnd": "5",
+              "Type": "media",
+              "StartString": "https://download",
+              "EndString": "\"",
+              "Start": 0,
               "End": 0,
-              "Fetch": "Voe"
+              "Fetch": "MediaFire"
             },
             {
               "Title": 4,
