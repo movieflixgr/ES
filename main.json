@@ -18,6 +18,23 @@
           "isUnlocked": true,
           "Episodes": [
             {
+              "Title": "7. Ήθοσ Ανθρώπω Δαίμων",
+              "Image": "https://thumb.tapecontent.net/thumb/V7qYL9K7DeUKm96/L29gV3MOAvHR19R.jpg",
+              "Video": "https://www.mediafire.com/file_premium/i94lqbrz6t1z1pn/7/file",
+              "Description": "",
+              "Date": "27/03/2023",
+              "Duration": "53λ.",
+              "isUnlocked": true,
+              "fetchVideo": true,
+              "beforeEnd": "5",
+              "Type": "media",
+              "StartString": "https://download",
+              "EndString": "\"",
+              "Start": 0,
+              "End": 0,
+              "Fetch": "MediaFire"
+            },
+            {
               "Title": "6. Ύδωρ θολερόν και απαίδευτον ψυχήν ου δει ταράττειν.",
               "Image": "https://i.ibb.co/bH24VGC/Screenshot-20230323-085523-com-streammediallc-ets-edit-137643339182121.jpg",
               "Video": "https://www.mediafire.com/file_premium/3x3h92ahov9kqnw/6/file",
