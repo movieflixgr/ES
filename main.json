@@ -18,6 +18,23 @@
           "isUnlocked": true,
           "Episodes": [
             {
+              "Title": "8. Πύρ μάχαιρα μή σκαλεύειν",
+              "Image": "https://i.ibb.co/b7NDv21/8.png",
+              "Video": "https://voe.sx/fgrk2npir3qm",
+              "Description": "",
+              "Date": "03/04/2023",
+              "Duration": "1ώρ. 23λ.",
+              "isUnlocked": true,
+              "fetchVideo": true,
+              "beforeEnd": 0,
+              "StartString": "'hls': ",
+              "EndString": "',",
+              "Start": 8,
+              "End": 0,
+              "Type": "m3u8",
+              "Fetch": "Voe"
+            },
+            {
               "Title": "7. Ήθος Ανθρώπω Δαίμων",
               "Image": "https://thumb.tapecontent.net/thumb/V7qYL9K7DeUKm96/L29gV3MOAvHR19R.jpg",
               "Video": "https://www.mediafire.com/file_premium/i94lqbrz6t1z1pn/7/file",
