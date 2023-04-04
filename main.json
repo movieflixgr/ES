@@ -20,19 +20,19 @@
             {
               "Title": "8. Πύρ μάχαιρα μή σκαλεύειν",
               "Image": "https://i.ibb.co/b7NDv21/8.png",
-              "Video": "https://voe.sx/fgrk2npir3qm",
+              "Video": "https://www.mediafire.com/file_premium/yezzkc9s0g50wjy/8/file",
               "Description": "",
               "Date": "03/04/2023",
               "Duration": "1ώρ. 23λ.",
               "isUnlocked": false,
               "fetchVideo": true,
-              "beforeEnd": 0,
-              "StartString": "'hls': ",
-              "EndString": "',",
-              "Start": 8,
+              "beforeEnd": "5",
+              "Type": "media",
+              "StartString": "https://download",
+              "EndString": "\"",
+              "Start": 0,
               "End": 0,
-              "Type": "m3u8",
-              "Fetch": "Voe"
+              "Fetch": "MediaFire"
             },
             {
               "Title": "7. Ήθος Ανθρώπω Δαίμων",
