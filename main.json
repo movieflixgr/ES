@@ -24,7 +24,7 @@
               "Description": "",
               "Date": "03/04/2023",
               "Duration": "1ώρ. 23λ.",
-              "isUnlocked": true,
+              "isUnlocked": false,
               "fetchVideo": true,
               "beforeEnd": 0,
               "StartString": "'hls': ",
